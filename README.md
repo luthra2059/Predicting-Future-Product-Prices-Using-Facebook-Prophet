@@ -1,5 +1,5 @@
 # Predicting-Future-Product-Prices-Using-Facebook-Prophet
-
+Here we train time-series prediction models to predict future product prices. This project could be practically applied in the banking, retail, and healthcare sectors.
 ## Dataset
 
 It is a well known fact that Millenials LOVE Avocado Toast. It's also a well known fact that all Millenials live in their parents basements.
